@@ -9,6 +9,14 @@ redirect_from:
 
 I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department of UC San Diego, advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/index.html), starting in 2019. Before joining UCSD, I received my B.S. degree from the School of Electronics Engineering & Computer Science at Peking University, advised by [Prof. Guojie Luo](https://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/). My current research broadly spans and stretches the intersection of machine learning (ML) with programming languages, compilers, and computer systems. This includes exploring advanced ML techniques to improve system designs and PL tasks, as well as efficient ML algorithms and system co-design.  
 
+**News**
+
+:new: 2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](),  is accepted to ICS '24!
+
+:new: 2024/03: Our paper, ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://arxiv.org/pdf/2404.03171.pdf),  is accepted to ISSTA '24!
+
+:new: 2023/11: Our paper, ["Sibyl: Forecasting Time-Evolving Query Workloads"](https://dl.acm.org/doi/pdf/10.1145/3639308),  is accepted to SIGMOD '24
+
 Website under construction...
 
 Please check my latest [CV](http://Hanxian97.github.io/Hanxian_CV_updated_042024.pdf). 

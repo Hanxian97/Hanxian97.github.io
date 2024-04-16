@@ -11,11 +11,11 @@ I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department
 
 **News**
 
-2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](),  is accepted to ICS 2024!
+2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](),  is accepted by the International Conference on Supercomputing ([ICS](https://ics2024.github.io)) 2024!
 
-2024/03: Our paper, ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://arxiv.org/pdf/2404.03171.pdf),  is accepted to ISSTA 2024!
+2024/03: Our paper, ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://arxiv.org/pdf/2404.03171.pdf),  is accepted by The ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA](https://2024.issta.org/track/issta-2024-papers#Call-for-Papers)) 2024!
 
-2023/11: Our paper, ["Sibyl: Forecasting Time-Evolving Query Workloads"](https://dl.acm.org/doi/pdf/10.1145/3639308),  is accepted to SIGMOD 2024!
+2023/11: Our paper, ["Sibyl: Forecasting Time-Evolving Query Workloads"](https://dl.acm.org/doi/pdf/10.1145/3639308),  is accepted by the ACM [SIGMOD]((https://2024.sigmod.org)) Conference 2024!
 
 Website under construction...
 

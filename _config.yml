@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Hanxian Huang"
-title_separator          : "PhD Candidate"
+title_separator          : "Ph.D. Candidate at Dept of Computer Science and Engineering, University of California San Diego. hah008 [AT] ucsd.edu"
 name                     : &name "Hanxian Huang"
 description              : &description "personal description"
 url                      : https://Hanxian97.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "hanxian_miao.JPG"
   name             : "Hanxian Huang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in University of California San Diego"
+  bio              : "Ph.D. candidate in University of California San Diego"
   location         : "La Jolla"
   employer         : "University of California San Diego"
   uri              : # URL

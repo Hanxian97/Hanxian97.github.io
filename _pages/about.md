@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! Welcome to Hanxian Huang webpage"
+title: "Hi! Welcome to Hanxian Huang's webpage"
 author_profile: true
 redirect_from: 
   - /about/

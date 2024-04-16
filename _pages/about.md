@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. candidate, advised by [Prof. Jishen Zhao](https://cseweb
 
 Website under construction...
 
-Please check my latest [CV](../../Hanxian_CV_updated_042024.pdf). 
+Please check my latest [CV](http://Hanxian97.github.io/Hanxian_CV_updated_042024.pdf). 
 
 Last Upated on 2024.04.15
 

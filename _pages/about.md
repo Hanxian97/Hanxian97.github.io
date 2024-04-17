@@ -11,19 +11,21 @@ I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department
 
 **News**
 
-2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](),  is accepted by the International Conference on Supercomputing ([ICS](https://ics2024.github.io)) 2024!
+2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](),  is accepted by the International Conference on Supercomputing ([ICS](https://ics2024.github.io)) 2024! 
+
+2024/03: I'll be working as a research scientist intern in the Pytorch team at Meta this summer. Looking forward to meeting you in Menlo Park!
 
 2024/03: Our paper, ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://arxiv.org/pdf/2404.03171.pdf),  is accepted by The ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA](https://2024.issta.org/track/issta-2024-papers#Call-for-Papers)) 2024!
 
 2023/11: Our paper, ["Sibyl: Forecasting Time-Evolving Query Workloads"](https://dl.acm.org/doi/pdf/10.1145/3639308),  is accepted by the ACM [SIGMOD](https://2024.sigmod.org) Conference 2024!
 
-Website under construction...
+<!---Website under construction...
 
-Please check my latest [CV](http://Hanxian97.github.io/Hanxian_CV_updated_042024.pdf). 
+%Please check my latest [CV](http://Hanxian97.github.io/Hanxian_CV_updated_042024.pdf). 
 
-Last upated on 2024.04
+%Last upated on 2024.04
 
-<!---This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======

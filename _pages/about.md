@@ -11,13 +11,13 @@ I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department
 
 **News**
 
-2024/05: I was selected as one of the Machine Learning and Systems Rising Stars 2024!
+2024/05: I was selected as one of the Machine Learning and Systems Rising Stars 2024! See you at the [workshop](https://mlcommons.org/about-us/programs/) in the NVIDIA Headquarters on July 15-16!
 
 2024/05: Our paper, ["Learning to Maximize Mutual Information for Chain-of-Thought Distillation"](https://arxiv.org/pdf/2403.03348), is accepted to the [ACL](https://2024.aclweb.org) Findings 2024! 
 
 2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](/files/ics24-41.pdf), is accepted by the International Conference on Supercomputing ([ICS](https://ics2024.github.io)) 2024! 
 
-2024/03: I'll be working as a research scientist intern in the Pytorch team at Meta this summer. Looking forward to meeting you in Menlo Park!
+2024/03: I'll be working as a research scientist intern in the Pytorch team at Meta this summer and looking forward to meeting you in Menlo Park!
 
 2024/03: Our paper, ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://arxiv.org/pdf/2404.03171.pdf),  is accepted by The ACM SIGSOFT International Symposium on Software Testing and Analysis ([ISSTA](https://2024.issta.org/track/issta-2024-papers#Call-for-Papers)) 2024!
 

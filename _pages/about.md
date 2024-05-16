@@ -13,7 +13,7 @@ I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department
 
 2024/05: I was selected as one of the Machine Learning and Systems Rising Stars 2024!
 
-2024/05: Our paper, ["Learning to Maximize Mutual Information for Chain-of-Thought Distillation"](https://arxiv.org/pdf/2403.03348), is accepted to the [ACL] (https://2024.aclweb.org) Findings 2024! 
+2024/05: Our paper, ["Learning to Maximize Mutual Information for Chain-of-Thought Distillation"](https://arxiv.org/pdf/2403.03348), is accepted to the [ACL](https://2024.aclweb.org) Findings 2024! 
 
 2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](/files/ics24-41.pdf), is accepted by the International Conference on Supercomputing ([ICS](https://ics2024.github.io)) 2024! 
 

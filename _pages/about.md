@@ -10,6 +10,7 @@ redirect_from:
 I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department of UC San Diego,  where I am fortunate to be advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/index.html). Before joining UCSD, I received my B.S. degree from the School of Electronics Engineering & Computer Science at Peking University, advised by [Prof. Guojie Luo](https://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/). My current research broadly spans and stretches the intersection of machine learning (ML) with programming languages, compilers, and computer systems. This includes exploring advanced ML techniques to improve system designs and PL tasks, as well as efficient ML algorithms and system co-design.  
 
 **News**
+
 2024/05: I was selected as one of the Machine Learning and Systems Rising Stars 2024!
 
 2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](/files/ics24-41.pdf), is accepted by the International Conference on Supercomputing ([ICS](https://ics2024.github.io)) 2024! 

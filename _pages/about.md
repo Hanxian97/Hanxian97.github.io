@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department
 
 **News**
 
-2024/05: I was selected as one of the [Machine Learning and Systems Rising Stars 2024](https://mlcommons.org/2024/06/2024-mlc-rising-stars/)! See you at the [workshop]([https://mlcommons.org/about-us/programs/](https://mlcommons.org/2024/06/2024-mlc-rising-stars/)) in the NVIDIA Headquarters on July 15-16!
+2024/05: I was selected as one of the [Machine Learning and Systems Rising Stars 2024](https://mlcommons.org/2024/06/2024-mlc-rising-stars/)! See you at the [workshop](https://mlcommons.org/about-us/programs/) in the NVIDIA Headquarters on July 15-16!
 
 2024/05: Our paper, ["Learning to Maximize Mutual Information for Chain-of-Thought Distillation"](https://arxiv.org/pdf/2403.03348), is accepted to the [ACL](https://2024.aclweb.org) Findings 2024! 
 

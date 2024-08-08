@@ -11,6 +11,10 @@ I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department
 
 **News**
 
+2024/08: I was invited as a speaker at IEEE MIPR Innovation Forum [Industry Challenges of Efficient AI](https://sites.google.com/view/mipr2024/innovation-forums/innovation-forums-3).
+
+2024/07: I was invited to the ML and System Rising Stars workshop! Thanks ML Commons and the origanizing commitee.
+
 2024/06: Our workload forecasting project was highlighted in the [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/sibyl-a-machine-learning-based-framework-for-forecasting-dynamic-workloads/)!
 
 2024/05: I was selected as one of the [Machine Learning and Systems Rising Stars 2024](https://mlcommons.org/2024/06/2024-mlc-rising-stars/)! See you at the [workshop](https://mlcommons.org/about-us/programs/) in the NVIDIA Headquarters on July 15-16!

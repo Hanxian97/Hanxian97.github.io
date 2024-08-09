@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate at Computer Science and Engineering Department of UC San Diego,  where I am fortunate to be advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/index.html). Before joining UCSD, I received my B.S. degree from the School of Electronics Engineering & Computer Science at Peking University, advised by [Prof. Guojie Luo](https://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/). My current research broadly spans and stretches the intersection of machine learning (ML) with programming languages, compilers, and computer systems. This includes exploring advanced ML techniques to improve system designs and PL tasks, as well as efficient ML algorithms and system co-design.  
+I am a fifth-year Ph.D. candidate at the Computer Science and Engineering Department of UC San Diego,  where I am fortunate to be advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/index.html). Before joining UCSD, I received my B.S. degree from the School of Electronics Engineering & Computer Science at Peking University, advised by [Prof. Guojie Luo](https://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/). My current research broadly spans and stretches the intersection of machine learning (ML) with programming languages, compilers, and computer systems. This includes exploring advanced ML techniques to improve system designs and PL tasks, as well as efficient ML algorithms and system co-design.  
 
 **News**
 
+2024/08: I will give a talk on "Domain Adaptive LLM Models for Chip Design" at the [Hot Chips 2024 tutorial](https://hotchips.org/advance-program/), see you at Hot Chips! 
+
 2024/08: I was invited as a speaker at IEEE MIPR Innovation Forum [Industry Challenges of Efficient AI](https://sites.google.com/view/mipr2024/innovation-forums/innovation-forums-3).
 
-2024/07: I was invited to the ML and System Rising Stars workshop! Thanks ML Commons and the origanizing commitee.
+2024/07: I was invited to the ML and System Rising Stars workshop! Thanks ML Commons and the organizing committee.
 
 2024/06: Our workload forecasting project was highlighted in the [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/sibyl-a-machine-learning-based-framework-for-forecasting-dynamic-workloads/)!
 

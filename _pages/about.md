@@ -11,6 +11,8 @@ I am a fifth-year Ph.D. candidate at the Computer Science and Engineering Depart
 
 **News**
 
+2024/09: Our ISSTA'24 paper ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://www.conference-publishing.com/download.php?Event=ISSTA24MAIN&Paper=e3b267713920a96c0ce1e6e78a9e9d&Version=final) was selected as one of 11 (out of 143) papers to receive an **ACM SIGSOFT Distinguished Paper Award**!
+
 2024/08: I will give a talk on "Domain Adaptive LLM Models for Chip Design" at the [Hot Chips 2024 tutorial](https://hotchips.org/advance-program/), see you at Hot Chips! 
 
 2024/08: I was invited as a speaker at IEEE MIPR Innovation Forum [Industry Challenges of Efficient AI](https://sites.google.com/view/mipr2024/innovation-forums/innovation-forums-3).

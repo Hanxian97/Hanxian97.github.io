@@ -17,7 +17,7 @@ I am a fifth-year Ph.D. candidate at the Computer Science and Engineering Depart
 
 2024/08: I was invited as a speaker at IEEE MIPR Innovation Forum [Industry Challenges of Efficient AI](https://sites.google.com/view/mipr2024/innovation-forums/innovation-forums-3).
 
-2024/07: I was invited to the ML and System Rising Stars workshop! Thanks ML Commons and the organizing committee.
+2024/07: I was invited to the ML and System Rising Stars workshop [[poster](/files/POSTER_rising_star_Hanxian_Huang.pdf)]! Thanks ML Commons for this great organization and support!
 
 2024/06: Our workload forecasting project was highlighted in the [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/sibyl-a-machine-learning-based-framework-for-forecasting-dynamic-workloads/)!
 

@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate at the Computer Science and Engineering Department of UC San Diego,  where I am fortunate to be advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/index.html). Before joining UCSD, I received my B.S. degree from the School of Electronics Engineering & Computer Science at Peking University, advised by [Prof. Guojie Luo](https://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/). My current research broadly spans and stretches the intersection of machine learning (ML) with programming languages, compilers, and computer systems. This includes exploring advanced ML techniques to improve system designs and PL tasks, as well as efficient ML algorithms and system co-design.  
+I am a software engineer at Meta, working on efficient LLM deployment.
+
+Before joining Meta, I received my Ph.D at the Computer Science and Engineering Department of UC San Diego,  where I was fortunate to be advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/index.html). Before joining UCSD, I received my B.S. degree from the School of Electronics Engineering & Computer Science at Peking University, advised by [Prof. Guojie Luo](https://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/). My current research broadly spans and stretches the intersection of machine learning (ML) with programming languages, compilers, and computer systems. This includes exploring advanced ML techniques to improve system designs and PL tasks, as well as efficient ML algorithms and system co-design.  
 
 **News**
+
+2024/12: I have passed my Ph.D. final defense and earned my Ph.D. from UCSD! I will be joining Meta to work on efficient LLM deployment! Looking forward to this exciting new journey!
 
 2024/10: Our summary of "AI for Chip Design" tutorial at Hot Chips 2024 has been published on the ACM SIGARCH [technical blog](https://www.sigarch.org/ai-in-chip-design-from-basic-tools-to-llms-and-ai-agents/). Thanks for all the collaborators for putting them together!
 

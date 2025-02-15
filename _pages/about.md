@@ -13,6 +13,8 @@ Before joining Meta, I received my Ph.D at the Computer Science and Engineering 
 
 **News**
 
+2025/02: Our paper, ["MAGE: A Multi-Agent Engine for Automated RTL Code Generation"](https://arxiv.org/pdf/2412.07822), is accepted to the [Design Automation Conference (DAC)](https://www.dac.com) 2025! 
+
 2024/12: I have passed my Ph.D. final defense and earned my Ph.D. from UCSD! I will be joining Meta to work on efficient LLM deployment! Looking forward to this exciting new journey!
 
 2024/10: Our summary of "AI for Chip Design" tutorial at Hot Chips 2024 has been published on the ACM SIGARCH [technical blog](https://www.sigarch.org/ai-in-chip-design-from-basic-tools-to-llms-and-ai-agents/). Thanks for all the collaborators for putting them together!

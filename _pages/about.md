@@ -29,7 +29,7 @@ Before joining Meta, I received my Ph.D at the Computer Science and Engineering 
 
 2024/06: Our workload forecasting project was highlighted in the [Microsoft Research Blog](https://www.microsoft.com/en-us/research/blog/sibyl-a-machine-learning-based-framework-for-forecasting-dynamic-workloads/)!
 
-2024/05: I was selected as one of the [Machine Learning and Systems Rising Stars 2024](https://mlcommons.org/2024/06/2024-mlc-rising-stars/)! See you at the [workshop](https://mlcommons.org/about-us/programs/) in the NVIDIA Headquarters on July 15-16!
+2024/05: I was selected as one of the **Machine Learning and Systems Rising Stars 2024** by ML Commons! See you at the [workshop](https://mlcommons.org/2024/06/2024-mlc-rising-stars/) in the NVIDIA Headquarters on July 15-16!
 
 2024/05: Our paper, ["Learning to Maximize Mutual Information for Chain-of-Thought Distillation"](https://arxiv.org/pdf/2403.03348), is accepted to the [ACL](https://2024.aclweb.org) Findings 2024! 
 

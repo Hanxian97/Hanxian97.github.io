@@ -15,7 +15,7 @@ Before joining Meta, I received my Ph.D at the Computer Science and Engineering 
 
 2025/05: Our paper, ["OrcaLoca: An LLM Agent Framework for Software Issue Localization"](https://arxiv.org/pdf/2502.00350), is accepted to ICML 2025! Try OrcaLoca [here](https://github.com/fishmingyu/OrcaLoca).
 
-2025/02: Our paper, ["MAGE: A Multi-Agent Engine for Automated RTL Code Generation"](https://arxiv.org/pdf/2412.07822), is accepted to the [Design Automation Conference (DAC)](https://www.dac.com) 2025! Try MAGE [here](https://github.com/stable-lab/MAGE).
+2025/02: Our paper, ["MAGE: A Multi-Agent Engine for Automated RTL Code Generation"](https://arxiv.org/pdf/2412.07822), is accepted to the Design Automation Conference (DAC) 2025! Try MAGE [here](https://github.com/stable-lab/MAGE).
 
 2024/12: I have passed my Ph.D. final defense and earned my Ph.D. from UCSD! I will be joining Meta to work on efficient LLM deployment! Looking forward to this exciting new journey!
 

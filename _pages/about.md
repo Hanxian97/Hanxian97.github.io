@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a software engineer at Meta, working on efficient LLM deployment.
+I am an AI Research Scientist at Meta, working on efficient LLM deployment.
 
 Before joining Meta, I received my Ph.D at the Computer Science and Engineering Department of UC San Diego,  where I was fortunate to be advised by [Prof. Jishen Zhao](https://cseweb.ucsd.edu/~jzhao/index.html). Before joining UCSD, I received my B.S. degree from the School of Electronics Engineering & Computer Science at Peking University, advised by [Prof. Guojie Luo](https://ceca.pku.edu.cn/en/people_/faculty_/guojie_luo/). My current research broadly spans and stretches the intersection of machine learning (ML) with programming languages, compilers, and computer systems. This includes exploring advanced ML techniques to improve system designs and PL tasks, as well as efficient ML algorithms and system co-design.  
 

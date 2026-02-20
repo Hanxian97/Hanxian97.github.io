@@ -13,7 +13,7 @@ Before joining Meta, I received my Ph.D at the Computer Science and Engineering 
 
 **News**
 
-2025/11: Check our new MobileLLM-Pro: the latest 1 billion parameter foundational language model! Designed to deliver high-quality, efficient on-device inference across a wide range of general language modeling tasks. [Technical report](https://arxiv.org/pdf/2511.06719), [Models](https://huggingface.co/facebook/MobileLLM-Pro)
+2025/11: Check our new MobileLLM-Pro: the latest 1 billion parameter foundational language model, designed to deliver high-quality, efficient on-device inference across a wide range of general language modeling tasks! [Technical report](https://arxiv.org/pdf/2511.06719), [Models](https://huggingface.co/facebook/MobileLLM-Pro)
 
 2025/09: Our paper, ["ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization"](https://arxiv.org/pdf/2502.02631) ([code](https://github.com/facebookresearch/ParetoQ), [models](https://huggingface.co/facebook/MobileLLM-ParetoQ-1.5B-1.58-bit)), is accepted to NeurIPS 2025! 
 

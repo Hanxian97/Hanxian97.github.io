@@ -13,15 +13,17 @@ Before joining Meta, I received my Ph.D at the Computer Science and Engineering 
 
 **News**
 
+2026/04: Our paper, ["MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale Deployment"](https://arxiv.org/pdf/2603.15954) has been accepted to the ACL Industry Track (oral) 2026!
+
 2025/11: Check our new MobileLLM-Pro: the latest 1 billion parameter foundational language model, designed to deliver high-quality, efficient on-device inference across a wide range of general language modeling tasks! [Technical report](https://arxiv.org/pdf/2511.06719), [Models](https://huggingface.co/facebook/MobileLLM-Pro)
 
-2025/09: Our paper, ["ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization"](https://arxiv.org/pdf/2502.02631) ([code](https://github.com/facebookresearch/ParetoQ), [models](https://huggingface.co/facebook/MobileLLM-ParetoQ-1.5B-1.58-bit)), is accepted to NeurIPS 2025! 
+2025/09: Our paper, ["ParetoQ: Improving Scaling Laws in Extremely Low-bit LLM Quantization"](https://arxiv.org/pdf/2502.02631) ([code](https://github.com/facebookresearch/ParetoQ), [models](https://huggingface.co/facebook/MobileLLM-ParetoQ-1.5B-1.58-bit)), has been accepted to NeurIPS 2025! 
 
-2025/08: Our paper, ["You Only Use Reactive Attention Slice When Retrieving From Long Context"](https://arxiv.org/pdf/2409.13695), is accepted to EMNLP 2025 Findings! 
+2025/08: Our paper, ["You Only Use Reactive Attention Slice When Retrieving From Long Context"](https://arxiv.org/pdf/2409.13695), has been accepted to EMNLP 2025 Findings! 
 
-2025/05: Our paper, ["OrcaLoca: An LLM Agent Framework for Software Issue Localization"](https://arxiv.org/pdf/2502.00350), is accepted to ICML 2025! Try OrcaLoca [here](https://github.com/fishmingyu/OrcaLoca).
+2025/05: Our paper, ["OrcaLoca: An LLM Agent Framework for Software Issue Localization"](https://arxiv.org/pdf/2502.00350), has been accepted to ICML 2025! Try OrcaLoca [here](https://github.com/fishmingyu/OrcaLoca).
 
-2025/02: Our paper, ["MAGE: A Multi-Agent Engine for Automated RTL Code Generation"](https://arxiv.org/pdf/2412.07822), is accepted to the Design Automation Conference (DAC) 2025! Try MAGE [here](https://github.com/stable-lab/MAGE).
+2025/02: Our paper, ["MAGE: A Multi-Agent Engine for Automated RTL Code Generation"](https://arxiv.org/pdf/2412.07822), has been accepted to the Design Automation Conference (DAC) 2025! Try MAGE [here](https://github.com/stable-lab/MAGE).
 
 2024/12: I have passed my Ph.D. final defense and earned my Ph.D. from UCSD! I will be joining Meta to work on efficient LLM deployment! Looking forward to this exciting new journey!
 
@@ -39,15 +41,15 @@ Before joining Meta, I received my Ph.D at the Computer Science and Engineering 
 
 2024/05: I was selected as one of the **Machine Learning and Systems Rising Stars 2024** by ML Commons! See you at the [workshop](https://mlcommons.org/2024/06/2024-mlc-rising-stars/) in the NVIDIA Headquarters on July 15-16!
 
-2024/05: Our paper, ["Learning to Maximize Mutual Information for Chain-of-Thought Distillation"](https://arxiv.org/pdf/2403.03348), is accepted to the ACL 2024 Findings! 
+2024/05: Our paper, ["Learning to Maximize Mutual Information for Chain-of-Thought Distillation"](https://arxiv.org/pdf/2403.03348), has been accepted to the ACL 2024 Findings! 
 
-2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](/files/ics24-41.pdf), is accepted by the International Conference on Supercomputing (ICS) 2024! 
+2024/04: Our paper, ["Fasor: A Fast Tensor Program Optimization Framework for Efficient DNN Deployment"](/files/ics24-41.pdf), has been accepted to the International Conference on Supercomputing (ICS) 2024! 
 
 2024/03: I'll be working as a research scientist intern in the Pytorch team at Meta this summer and looking forward to meeting you in Menlo Park!
 
-2024/03: Our paper, ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://arxiv.org/pdf/2404.03171.pdf), is accepted by The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2024!
+2024/03: Our paper, ["Multi-modal Learning for WebAssembly Reverse Engineering"](https://arxiv.org/pdf/2404.03171.pdf), has been accepted to The ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2024!
 
-2023/11: Our paper, ["Sibyl: Forecasting Time-Evolving Query Workloads"](https://dl.acm.org/doi/pdf/10.1145/3639308), is accepted by the ACM SIGMOD Conference 2024!
+2023/11: Our paper, ["Sibyl: Forecasting Time-Evolving Query Workloads"](https://dl.acm.org/doi/pdf/10.1145/3639308), has been accepted to the ACM SIGMOD Conference 2024!
 
 <!---Website under construction...
 

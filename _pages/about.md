@@ -13,6 +13,9 @@ Before joining Meta, I received my Ph.D at the Computer Science and Engineering 
 
 **News**
 
+2026/09: Two papers ["MobileMoE: Scaling On-Device Mixture of Experts"](https://arxiv.org/pdf/2605.27358) [(models)](https://huggingface.co/collections/facebook/mobilemoe), and ["The Path Not Taken:
+RLVR Provably Learns Off the Principals"](https://arxiv.org/pdf/2511.08567) have been accepted to NeurIPS 2026!
+
 2026/04: Our paper, ["MobileLLM-Flash: Latency-Guided On-Device LLM Design for Industry Scale Deployment"](https://arxiv.org/pdf/2603.15954) has been accepted to the ACL Industry Track (oral) 2026!
 
 2025/11: Check our new MobileLLM-Pro: the latest 1 billion parameter foundational language model, designed to deliver high-quality, efficient on-device inference across a wide range of general language modeling tasks! [Technical report](https://arxiv.org/pdf/2511.06719), [Models](https://huggingface.co/facebook/MobileLLM-Pro)
